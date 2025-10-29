@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Jindal</h1>
-<h3 align="center"> :india: Problem Solver | Engineering Web3 and Backend Platform Backends | ex-Stader Labs, KernelDao, Quizizz, Gojek, Swiggy</h3>
+<h3 align="center"> :india: Problem Solver | Engineering Blockchain and Dev Platform Backends | ex-Stader Labs, KernelDao, Quizizz, Gojek, Swiggy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fighting-dreamer&label=Profile%20views&color=0e75b6&style=flat" alt="fighting-dreamer" /> </p>
 
