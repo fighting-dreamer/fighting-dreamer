@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Jindal</h1>
-<h3 align="center"> :india: Problem Solver | Engineering Platform Backends | ex-Quizizz, Gojek, Swiggy</h3>
+<h3 align="center"> :india: Problem Solver | Engineering Web3 and Backend Platform Backends | ex-Stader Labs, KernelDao, Quizizz, Gojek, Swiggy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fighting-dreamer&label=Profile%20views&color=0e75b6&style=flat" alt="fighting-dreamer" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nipunjindal](https://medium.com/@nipunjindal)
 
-- 💬 Ask me about **Data platform, Observability, ML backend Tech stack**
+- 💬 Ask me about **Smart Contracts, Ethereum, Data platform, Observability, ML backend Tech stack**
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/nipun-jindal-265888102/)
 
@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fighting-dreamer&show_icons=true&locale=en&layout=compact" alt="fighting-dreamer" /></p>
 
-<h3 align="left">Languages : Go, Java, Javascript/Typescript, Python</h3>
+<h3 align="left">Languages : Solidity, Go, Javascript/Typescript, Python</h3>
 <p align="left"> 
  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
